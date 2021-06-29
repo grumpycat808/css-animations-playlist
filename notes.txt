@@ -1,0 +1,8 @@
+* Transitions are great for simple animations
+* Transitions control SPEED of the change when hovered/active
+* Animation property is best for more complex animations
+* Apply transition on the item you want to change
+* With animations, we want to specify the animation on the CSS selector that triggers the animations
+* Transitions require a trigger to run (hover, active, etc) but animations do not
+
+* Animation fill mode forward will allow animation to stay at the end state
